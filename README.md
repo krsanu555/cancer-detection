@@ -6,7 +6,7 @@ The objective of this project is to detect whether the given person has cancer o
 The project includes following steps:-
  1. Loading data into pandas dataframe
  2. Data pre-processing and selection
- 3. Splitting data for training and testing model
+ 3. Splitting data for training and testing the model
  4. Modelling
  5. Evaluation
  
