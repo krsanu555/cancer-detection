@@ -15,7 +15,7 @@ The project includes following steps:-
 ### Set up
 1. Clone the repository
 ```
-https://github.com/krsanu555/cancer-detection.git
+git clone https://github.com/krsanu555/cancer-detection.git
 ```
 2. Move inside the newly created repository
 ```
